@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiubc" alt="saiubc" /></a> </p>
 
+<img align="right" alt="UBC" width="400" src="https://media2.giphy.com/media/elPWwFi9qXhFRLxPaY/giphy.gif?cid=6c09b952hoyz9gy693x6xear3o4n6zv337bs90xsrm8lcuad&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+
 - 🧑🏽‍💻 I’m currently working at the [language and development lab, UBC](https://languageanddevelopment.ca/)
 
 - 📫 How to reach me **pusulurs@gmail.com**
