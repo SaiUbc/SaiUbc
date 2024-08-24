@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sai Pusuluri</h1>
-<h3 align="center">I'm a student at UBC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiubc&label=Profile%20views&color=0e75b6&style=flat" alt="saiubc" /> </p>
 
@@ -7,7 +6,7 @@
 
 <img align="right" alt="UBC" width="150" src="https://media2.giphy.com/media/elPWwFi9qXhFRLxPaY/giphy.gif?cid=6c09b952hoyz9gy693x6xear3o4n6zv337bs90xsrm8lcuad&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-- 🧑🏽‍💻 I’m currently working at the [language and development lab, UBC](https://languageanddevelopment.ca/)
+- 🧑🏽‍💻 I’m currently working at the [language and development lab](https://languageanddevelopment.ca/)
 
 - 📫 How to reach me **pusulurs@gmail.com**
 
