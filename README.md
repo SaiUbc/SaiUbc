@@ -8,9 +8,14 @@
 
 - 🧑🏽‍💻 I’m currently working at the [language and development lab](https://languageanddevelopment.ca/)
 
-- 📫 How to reach me **pusulurs@gmail.com**
+- 📚 I love Machine Learning! I’m passionate about creating intelligent systems and always eager to dive into new challenges.
 
-- 📚 I love Machine Learning! 
+- 🔎 My current focus is on applying ML to real-world problems, and I’m constantly exploring new tools and techniques to improve my work.
+
+- ☁️ I'm fascinated by cloud computing and I'm preparing for AWS certifications in December 2024.
+
+- - 📫 How to reach me **pusulurs@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
