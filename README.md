@@ -14,7 +14,7 @@
 
 - ☁️ I'm fascinated by cloud computing and I'm preparing for AWS certifications in December 2024.
 
-- - 📫 How to reach me **pusulurs@gmail.com**
+- 📫 How to reach me **pusulurs@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
